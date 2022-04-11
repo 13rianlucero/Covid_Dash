@@ -19,6 +19,10 @@
 - Hosted live via Netlify:  [![Netlify Status](https://api.netlify.com/api/v1/badges/1f2a7eaf-842a-4306-b29c-9a90cdd482a5/deploy-status)](https://app.netlify.com/sites/vanilla-covid-dashboard/deploys)
 - [![COVID DASHBOARD](https://img.shields.io/badge/Vanilla-Covid%20Dashboard%20Website-blueviolet)](https://vanilla-covid-dashboard.netlify.app/)
 
+-------------------------------------------------------
+![ezgif-4-b01db5bea1](https://user-images.githubusercontent.com/47013770/162826938-db9196cd-0e8a-48ea-9ac3-8456e6eb0580.gif)
+-------------------------------------------------------
+
 ```
 CREATING a GATSBY LEAFLET STARTER
 (1) gatsby new directory_name
@@ -46,4 +50,3 @@ lsof -i tcp:8000    to find the pid of a process running on port 8000
 kill -9 PID_OF_PROCESS
 
 ```
-![ezgif-4-b01db5bea1](https://user-images.githubusercontent.com/47013770/162826938-db9196cd-0e8a-48ea-9ac3-8456e6eb0580.gif)
