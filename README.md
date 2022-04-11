@@ -11,9 +11,12 @@
 
 -------------------------------------------------------
 
-# covid_dash
-
-[![COVID DASHBOARD](https://img.shields.io/badge/Vanilla-Covid%20Dashboard%20Website-blueviolet)](https://vanilla-covid-dashboard.netlify.app/)
+# Covid Dashboard
+- Created a dynamic, COVID-19 dashboard website that updates Global Statistics in Real-Time
+- Interactive World Map (Leaflet API): displaying each country's Covid Stats
+- Statistical Analysis: Case & Recovery Data tables, Critical Cases per death Data Chart
+- Historical Metrics: 2 Time Data Charts, Today vs. All-Time
+- Hosted live via Netlify: [![COVID DASHBOARD](https://img.shields.io/badge/Vanilla-Covid%20Dashboard%20Website-blueviolet)](https://vanilla-covid-dashboard.netlify.app/)
 
 ```
 CREATING a GATSBY LEAFLET STARTER
