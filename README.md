@@ -13,7 +13,7 @@
 
 # covid_dash
 
-[![COVID DASHBOARD]https://img.shields.io/badge/Vanilla-Covid%20Dashboard%20Website-blueviolet](https://vanilla-covid-dashboard.netlify.app/)
+[![COVID DASHBOARD](https://img.shields.io/badge/Vanilla-Covid%20Dashboard%20Website-blueviolet)](https://vanilla-covid-dashboard.netlify.app/)
 
 ```
 CREATING a GATSBY LEAFLET STARTER
